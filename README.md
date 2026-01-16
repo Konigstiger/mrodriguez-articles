@@ -1,5 +1,25 @@
 # mrodriguez-articles
 
+
+This repository contains original technical articles written in Markdown.
+
+These articles are the source of truth for the content published on my personal website and are served via a custom Azure Functions API.
+
+## Structure
+- articles/  → published content
+- drafts/   → work in progress
+- assets/   → images and diagrams
+
+## Philosophy
+- Ownership over platforms
+- Markdown as a long-term format
+- Architecture and trade-offs over tutorials
+
+
+
+
+
+
 A content-only repository for articles (Markdown + YAML frontmatter). This repo contains only markdown files and documentation — no app code. Use it as the canonical source of articles for your React site and Azure Functions.
 
 Repository goals
